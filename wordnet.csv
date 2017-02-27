@@ -1,0 +1,210 @@
+wnid,Class,wnid_words
+n02121808,cat,domestic cat
+n02124075,cat,Egyptian cat
+n02123394,cat,Persian cat
+n02122298,cat,kitty
+n02122810,cat,gib
+n02123159,cat,tiger cat
+n02123478,cat,Angora
+n02122725,cat,tom
+n02123597,cat,Siamese cat
+n02124484,cat,Manx
+n02124157,cat,Maltese
+n02122878,cat,tabby
+n02123917,cat,Burmese cat
+n02122510,cat,alley cat
+n02124313,cat,Abyssinian
+n02123045,cat,tabby
+n02123242,cat,tortoiseshell
+n02122430,cat,mouser
+n02123785,cat,blue point Siamese
+n02084071,dog,dog
+n02100735,dog,English setter
+n02110185,dog,Siberian husky
+n02090253,dog,Plott hound
+n02096294,dog,Australian terrier
+n02102040,dog,English springer
+n02101670,dog,field spaniel
+n02090475,dog,wolfhound
+n02095050,dog,fox terrier
+n02084732,dog,pooch
+n02110063,dog,malamute
+n02109047,dog,Great Dane
+n02095727,dog,Welsh terrier
+n02089867,dog,Walker hound
+n02102177,dog,Welsh springer spaniel
+n02091134,dog,whippet
+n02092002,dog,Scottish deerhound
+n02088839,dog,coonhound
+n02086753,dog,King Charles spaniel
+n02089555,dog,foxhound
+n02109150,dog,guide dog
+n02092339,dog,Weimaraner
+n02098105,dog,soft-coated wheaten terrier
+n02095412,dog,wirehair
+n02096437,dog,Dandie Dinmont
+n02105641,dog,Old English sheepdog
+n02104523,dog,shepherd dog
+n02089725,dog,American foxhound
+n02086346,dog,toy spaniel
+n02099997,dog,pointer
+n02091635,dog,otterhound
+n02088466,dog,bloodhound
+n02103841,dog,watchdog
+n02087122,dog,hunting dog
+n02096051,dog,Airedale
+n02106854,dog,police dog
+n02102605,dog,water spaniel
+n02097130,dog,giant schnauzer
+n02085118,dog,pariah dog
+n02110341,dog,dalmatian
+n02089078,dog,black-and-tan coonhound
+n02086910,dog,papillon
+n02084861,dog,cur
+n02093256,dog,Staffordshire bullterrier
+n02101861,dog,springer spaniel
+n02112826,dog,corgi
+n02113978,dog,Mexican hairless
+n02106382,dog,Bouvier des Flandres
+n02113712,dog,miniature poodle
+n02113186,dog,Cardigan
+n02094721,dog,Manchester terrier
+n02105162,dog,malinois
+n02085272,dog,lapdog
+n02098413,dog,Lhasa
+n02094433,dog,Yorkshire terrier
+n02097967,dog,Clydesdale terrier
+n02111277,dog,Newfoundland
+n02091467,dog,Norwegian elkhound
+n02106550,dog,Rottweiler
+n02091831,dog,Saluki
+n02104365,dog,schipperke
+n02109256,dog,Seeing Eye dog
+n02086079,dog,Pekinese
+n02112706,dog,Brabancon griffon
+n02100399,dog,setter
+n02098286,dog,West Highland white terrier
+n02095889,dog,Sealyham terrier
+n02090721,dog,Irish wolfhound
+n02113892,dog,large poodle
+n02109687,dog,seizure-alert dog
+n02106966,dog,pinscher
+n02094931,dog,toy Manchester
+n02096756,dog,schnauzer
+n02108000,dog,EntleBucher
+n02098550,dog,sporting dog
+n02093056,dog,bullterrier
+n02113335,dog,poodle
+n02108915,dog,French bulldog
+n02110532,dog,liver-spotted dalmatian
+n02110806,dog,basenji
+n02098806,dog,bird dog
+n02107683,dog,Bernese mountain dog
+n02085936,dog,Maltese dog
+n02094114,dog,Norfolk terrier
+n02087046,dog,toy terrier
+n02100583,dog,vizsla
+n02096177,dog,cairn
+n02101108,dog,spaniel
+n02105056,dog,groenendael
+n02101556,dog,clumber
+n02109811,dog,sled dog
+n02105505,dog,komondor
+n02088094,dog,Afghan hound
+n02085782,dog,Japanese spaniel
+n02092173,dog,staghound
+n02090622,dog,borzoi
+n02113624,dog,toy poodle
+n02093859,dog,Kerry blue terrier
+n02097298,dog,Scotch terrier
+n02108551,dog,Tibetan mastiff
+n02107142,dog,Doberman
+n02096585,dog,Boston bull
+n02107574,dog,Greater Swiss Mountain dog
+n02107908,dog,Appenzeller
+n02086240,dog,Shih-Tzu
+n02102973,dog,Irish water spaniel
+n02095212,dog,smooth-haired fox terrier
+n02112018,dog,Pomeranian
+n02089232,dog,dachshund
+n02093647,dog,Bedlington terrier
+n02097047,dog,miniature schnauzer
+n02106030,dog,collie
+n02099601,dog,golden retriever
+n02093991,dog,Irish terrier
+n02110627,dog,affenpinscher
+n02106166,dog,Border collie
+n02090827,dog,greyhound
+n02108089,dog,boxer
+n02097658,dog,silky terrier
+n02088364,dog,beagle
+n02103181,dog,griffon
+n02104882,dog,Belgian sheepdog
+n02111129,dog,Leonberg
+n02100236,dog,German short-haired pointer
+n02098906,dog,water dog
+n02112497,dog,griffon
+n02099849,dog,Chesapeake Bay retriever
+n02108422,dog,bull mastiff
+n02088992,dog,coondog
+n02104029,dog,kuvasz
+n02097786,dog,Skye terrier
+n02110958,dog,pug
+n02089468,dog,sausage dog
+n02099429,dog,curly-coated retriever
+n02090129,dog,harrier
+n02094258,dog,Norwich terrier
+n02099267,dog,flat-coated retriever
+n02092468,dog,terrier
+n02087314,dog,courser
+n02103406,dog,working dog
+n02112350,dog,keeshond
+n02109961,dog,Eskimo dog
+n02111626,dog,spitz
+n02101388,dog,Brittany spaniel
+n02113799,dog,standard poodle
+n02095570,dog,Lakeland terrier
+n02087551,dog,hound
+n02101006,dog,Gordon setter
+n02097209,dog,standard schnauzer
+n02097474,dog,Tibetan terrier
+n02094562,dog,rat terrier
+n02095314,dog,wire-haired fox terrier
+n02088238,dog,basset
+n02086478,dog,English toy spaniel
+n02112137,dog,chow
+n02085019,dog,feist
+n02107420,dog,Sennenhunde
+n02093428,dog,American Staffordshire terrier
+n02105855,dog,Shetland sheepdog
+n02111500,dog,Great Pyrenees
+n02085620,dog,Chihuahua
+n02104280,dog,housedog
+n02099712,dog,Labrador retriever
+n02104184,dog,attack dog
+n02109525,dog,Saint Bernard
+n02111889,dog,Samoyed
+n02088632,dog,bluetick
+n02090379,dog,redbone
+n02105412,dog,kelpie
+n02107312,dog,miniature pinscher
+n02091032,dog,Italian greyhound
+n02102318,dog,cocker spaniel
+n02100877,dog,Irish setter
+n02108254,dog,mastiff
+n02102480,dog,Sussex spaniel
+n02088745,dog,boarhound
+n02113023,dog,Pembroke
+n02102806,dog,American water spaniel
+n02085374,dog,toy dog
+n02086646,dog,Blenheim spaniel
+n02087394,dog,Rhodesian ridgeback
+n02099029,dog,retriever
+n02091244,dog,Ibizan hound
+n02109391,dog,hearing dog
+n02089973,dog,English foxhound
+n02105251,dog,briard
+n02093754,dog,Border terrier
+n02106662,dog,German shepherd
+n02108672,dog,bulldog
+n01322604,dog,puppy
